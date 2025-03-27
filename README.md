@@ -33,7 +33,7 @@ This template is based on the [WHU Chinese CV Template](https://www.overleaf.com
 
 ## 预览 | Preview
 
-![CV Preview](./docs/CV_preview.pdf)
+![CV Preview](./docs/CV_preview.jpg)
 
 ## 使用方法 | Usage
 
